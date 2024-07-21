@@ -1,6 +1,6 @@
-﻿## Resume_scanning
+﻿## Resume_screnning
 
-## Project: Resume Scanning App using Streamlit
+## Project: Resume Screnning App using Streamlit
 
 ### Install
 
